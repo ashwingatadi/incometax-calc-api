@@ -1,0 +1,15 @@
+{
+  "name": "incometax-calc",
+  "version": "1.0.0",
+  "description": "A tool to calculate incometax based on annual pay (A pay chart is defined in this package)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ashwin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
